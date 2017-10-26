@@ -1,2 +1,8 @@
-.vlogansetup.args
+.vlogansetup*
 work/
+AN.DB/
+DVEfiles/
+csrc/
+inter.vpd
+simv*
+ucli.key
